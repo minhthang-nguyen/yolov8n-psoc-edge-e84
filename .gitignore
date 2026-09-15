@@ -1,0 +1,74 @@
+# ============================================================
+# ModusToolbox / Infineon generated and downloaded content
+# ============================================================
+
+libs/
+GeneratedSource/
+build/
+Debug/
+Release/
+*_build/
+
+# ModusToolbox / Eclipse metadata
+.metadata/
+.settings/
+.project
+.cproject
+.mtbLaunchConfigs/
+.mtbqueryapi
+*.lock
+makefile.init
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Ninja / CMake artifacts
+.ninja_*
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# ============================================================
+# Compiled outputs
+# ============================================================
+
+*.o
+*.obj
+*.a
+*.so
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+
+# ============================================================
+# Temporary / debug files
+# ============================================================
+
+*.log
+*.tmp
+*.bak
+*~
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+
+# ============================================================
+# OS files
+# ============================================================
+
+.DS_Store
+Thumbs.db
+[Dd]esktop.ini
+
+# ============================================================
+# Optional exported model formats
+# Uncomment if these should not be tracked
+# ============================================================
+
+# *.pt
+# *.onnx
+# *.tflite
